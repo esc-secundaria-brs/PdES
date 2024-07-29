@@ -109,7 +109,7 @@ header a {
 
 .img__inicio {
  width: 100%;
- height: 230px;
+ height: auto;
 }
 .todo__texto {
  text-align: justify;
